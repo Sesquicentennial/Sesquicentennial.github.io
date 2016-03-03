@@ -46,6 +46,25 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	.youtube {
+		height: 315px;
+		@include breakpoint(xlarge) {
+			width: 500px;
+		}
+		@include breakpoint(large) {
+			width: 500px;
+		}
+		@include breakpoint(medium) {
+			width: 100%;
+		}
+		@include breakpoint(small) {
+			width: 100%;
+		}
+		@include breakpoint(xsmall) {
+			width: 100%;
+		}
+	}
+
     .demoimage {
 		position: relative;
 		max-width: 300px;
