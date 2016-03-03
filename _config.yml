@@ -1,8 +1,8 @@
 # Site settings
-title: Carleton150 
+title: Carleton150
 description: |
-    An app to celebrate Carleton's 150th Anniversary 
-owner: Your Name # or company name
+    An app to celebrate Carleton's 150th Anniversary
+owner: Carleton150 # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
